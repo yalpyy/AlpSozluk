@@ -1,0 +1,6 @@
+@AlpSozluk.Infrastructure.Persistence_HostAddress = http://localhost:5210
+
+GET {{AlpSozluk.Infrastructure.Persistence_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@AlpSozluk.Api.Domain_HostAddress = http://localhost:5245
+
+GET {{AlpSozluk.Api.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
